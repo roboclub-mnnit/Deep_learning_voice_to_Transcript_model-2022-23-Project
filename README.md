@@ -9,14 +9,14 @@ This project aims to build an app that transcribes audio files of various tones 
 
 CONTRIBUTORS -
 Kamal Ahmad | 
-Amisha Singh   /
-Vaishnav Anish/
+Amisha Singh   / 
+Vaishnav Anish
 V Suhas
 Kunwar Aridaman Singh
 Divyanshi Singh
 
 MENTORS -
-Purushotam Kumar Agrawal|
+Purushotam Kumar Agrawal |
 Anurag Gupta |                                                  
 Ayush Singh Gour 
 
