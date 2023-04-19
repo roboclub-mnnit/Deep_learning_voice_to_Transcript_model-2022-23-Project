@@ -9,16 +9,16 @@ This project aims to build an app that transcribes audio files of various tones 
 
 CONTRIBUTORS -
 Kamal Ahmad | 
-Amisha Singh/
+Amisha Singh   /
 Vaishnav Anish/
-V Suhas/
-Kunwar Aridaman Singh/
-Divyanshi Singh.
+V Suhas
+Kunwar Aridaman Singh
+Divyanshi Singh
 
 MENTORS -
-Purushotam Kumar Agrawal/ 
-Anurag Gupta /                                                   
-Ayush Singh Gour /   
+Purushotam Kumar Agrawal|
+Anurag Gupta |                                                  
+Ayush Singh Gour 
 
 For other Information and App Working You can see Project report by visiting MNNIT Robotics Club website -
 https://roboticsclub.mnnit.ac.in/projects/
